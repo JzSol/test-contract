@@ -2,7 +2,7 @@
 seeds = true
 
 [programs.localnet]
-text-signing-contract = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFp1Jff"
+text-signing-contract = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFp1J"
 
 [registry]
 url = "https://api.apr.dev"
