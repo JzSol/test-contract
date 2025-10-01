@@ -1,0 +1,33 @@
+# Node
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Next.js
+.next
+out
+app/.next
+app/node_modules
+
+# Typescript
+*.tsbuildinfo
+
+# Logs
+logs
+*.log
+
+# Mac
+.DS_Store
+
+# Anchor / Solana
+.target
+**/target
+**/dist
+**/.anchor
+**/Anchor.toml.local
+**/id.json
+
+# Rust
+**/Cargo.lock
